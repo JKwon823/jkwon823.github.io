@@ -1,0 +1,34 @@
+encoding:         UTF-8
+
+markdown:         kramdown
+kramdown:
+  input:          GFM
+  syntax_highlighter: rouge
+# markdown:         redcarpet
+redcarpet:
+  extensions:     ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+highlighter:      rouge
+
+permalink:        none
+version:          1.0.0
+
+title:            "Joseph Kwon"
+tagline:          "Empowering The Future"
+description:      "A software engineer's site with insights about his projects and about him as well."
+keywords:         JavaScript, Web Components, DevTools, CSS, Joseph Kwon, kwonjoseph, kwonjoseph.github.io, web development, MVC, blog, software, engineer, software engineer
+url:              http://kwonjoseph.github.io
+
+author:
+  name:           "Joseph Kwon"
+  email:          kwonjosepho@gmail.com
+  url:            http://kwonjoseph.github.io
+
+production_url:   http://kwonjoseph.github.io
+
+github:
+  repo:           https://github.com/kwonjoseph/kwonjoseph.github.io
+
+twitter:
+  username:       kwonjoseph
+
+google_analytics: UA-104748992-1

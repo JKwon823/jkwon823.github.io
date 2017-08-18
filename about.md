@@ -6,7 +6,7 @@ keywords: about joseph kwon, engineer, software engineer, software, web, web dev
 ---
 
 <p align="center">
-  <img src="/images/markprofile-new.jpg">
+  <img src="/images/josephkwon.jpg">
   <div align="center">
     My name is <strong>Joseph Kwon</strong>, and this is my personal blog.
     <br><br>

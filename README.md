@@ -2,7 +2,7 @@
 
 This repo contains the source code of my website, which is built with [Jekyll](http://jekyllrb.com/).
 
-**URL:** [http://kwonjoseph.github.io](http://josephkwon.me)
+**URL:** [http://josephkwon.me](http://kwonjoseph.github.io)
 
 ### Post Writing Format
 
